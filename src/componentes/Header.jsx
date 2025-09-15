@@ -7,7 +7,7 @@ import React from "react";
 
        <header id="topo">
         <div className="img-logo">
-            <img className="logo" src="logo_sa.png" />
+            <img className="logo" src="assets/img/logo_sa.png" />
         </div>
       
 
