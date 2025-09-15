@@ -7,7 +7,7 @@ import React from "react";
 
        <header id="topo">
         <div className="img-logo">
-            <img className="logo" src="public/vite.svg" />
+            <img className="logo" src="/public/img-logo.png" />
         </div>
       
 
